@@ -1,5 +1,4 @@
 <?php
-namespace WooCommerce\Tests\API;
 
 /**
  * Settings API Tests
